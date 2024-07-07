@@ -1,2 +1,3 @@
 ## SparkNotes
-Simple Website to implement Local Storage
+Simple Website to implement Local Storage.
+
