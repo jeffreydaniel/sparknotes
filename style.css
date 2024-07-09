@@ -7,7 +7,7 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #cf9aff, #F10C45);
+    background: linear-gradient(135deg, #9ab5ff, rgb(16, 240, 46));
     color: #fff;
     padding-top: 4%;
     padding-left: 10%;
@@ -18,6 +18,7 @@
     align-items: center;
     font-size: 35px;
     font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 .container h1 img{
     width: 60;
@@ -30,7 +31,7 @@
 .container button {
     display: flex;
     align-items: center;
-    background: linear-gradient(#F10C45, #FFC0CB);
+    background: linear-gradient(#0cb0f1, #c0ffe7);
     color: #fff;
     font-size: 16px;
     outline: 0;
